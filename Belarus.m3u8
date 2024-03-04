@@ -1,0 +1,271 @@
+#EXTM3U
+#EXTINF:-1,Минск "Relax Беларусь" 87.5 FM
+http://live.humorfm.by:8000/radiorelax
+#EXTINF:-1,Минск "Народное Радио" 87.9 FM
+https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio
+#EXTINF:-1,Минск "Радио Минск" 92.4 FM
+https://radio.mk.by:8443/mk128
+#EXTINF:-1,Минск "Юмор FM" 93.7 FM
+http://live.humorfm.by:8000/veseloeradio
+#EXTINF:-1,Минск "Легенды FM" 94.1 FM
+http://live.legendy.by:8000/legendyfm
+#EXTINF:-1,Минск "Ретро" 96.9 FM
+https://air.sammit.tv/retro
+#EXTINF:-1,Минск "Минская волна" 97.4 FM
+http://stream2.datacenter.by:8013/mvradio
+#EXTINF:-1,Минск "Авторадио" 98.0 FM
+http://live.humorfm.by:8000/avtoradio
+#EXTINF:-1,Минск "Новое Радио" 98.4 FM
+https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio
+#EXTINF:-1,Минск "Русское радио" 98.9 FM
+https://stream.rusradio.by:8443/live128
+#EXTINF:-1,Минск "Unistar" 99.5 FM
+http://unistar.webcaramba.com/unistar_main128.mp3
+#EXTINF:-1,Минск "Energy FM" 100.4 FM
+https://stream2.datacenter.by/energy
+#EXTINF:-1,Минск "Пилот FM" 101.2 FM
+https://stream2.datacenter.by/pilotfm
+#EXTINF:-1,Минск "Центр FM" 101.7 FM
+https://stream2.datacenter.by/stream
+#EXTINF:-1,Минск "Радио Рокс" 102.1 FM
+https://stream.roks.com:8443/live128
+#EXTINF:-1,Минск "Компас FM" 102.5 FM
+http://radio.mil.by/live
+#EXTINF:-1,Минск "Культура" 102.9 FM
+https://stream2.datacenter.by/kultura
+#EXTINF:-1,Минск "Радиус FM" 103.7 FM
+https://stream2.datacenter.by/radiusfm_main
+#EXTINF:-1,Минск "Столица" 105.1 FM
+https://stream2.datacenter.by/stalica
+#EXTINF:-1,Минск "Душевное радио" 105.7 FM
+https://stream2.datacenter.by/dushevnoe
+#EXTINF:-1,Минск "Первый национальный канал Белорусского радио" 106.2 FM
+https://stream2.datacenter.by/1kanal
+#EXTINF:-1,Минск "Радио Мир" 107.1 FM
+https://stream2.datacenter.by/radiomir
+#EXTINF:-1,Минск "Альфа Радио" 107.9 FM
+http://live.alpha.by:8000/alpha
+#EXTINF:-1,Барановичи "Барановичи FM" 100.0 FM
+http://radio.100fm.by:8000/100fm128
+#EXTINF:-1,Бобруйск "Зефир FM" 95.4 FM
+http://178.124.152.212:8008/Zefir
+#EXTINF:-1,Бобруйск "Супер FM" 97.1 FM
+https://stream2.datacenter.by/sfm
+#EXTINF:-1,Браслав "Альфа Радио" 95.7 FM
+http://live.alpha.by:8000/tuner_braslav
+#EXTINF:-1,Брест "Город FM" 97.7 FM
+https://stream2.datacenter.by/GorodFM
+#EXTINF:-1,Брест "Еврорадио" 99.2 FM
+http://stream1.euroradio.fm:8000/euroradio1
+#EXTINF:-1,Брест "Альфа Радио" 100.8 FM
+http://live.alpha.by:8000/tuner_brest
+#EXTINF:-1,Брест "Радио Брест" 104.8 FM
+https://stream2.datacenter.by/trkbrest
+#EXTINF:-1,Витебск "Радио Дельта" 89.5 FM
+http://rusradio.tgarant.by/;
+#EXTINF:-1,Витебск "Радио Витебск" 91.2 FM
+http://live.radiovitebsk.by/live
+#EXTINF:-1,Витебск "Альфа Радио" 107.6 FM
+http://live.alpha.by:8000/tuner_vitebsk
+#EXTINF:-1,Гомель "Альфа Радио" 96.4 FM
+http://live.alpha.by:8000/tuner_gomel
+#EXTINF:-1,Гомель "Радио Правда" 99.0 FM
+http://79.98.49.5:8132/pravda
+#EXTINF:-1,Гомель "Гомель FM" 101.3 FM
+http://stream2.datacenter.by:8021/gomelfm
+#EXTINF:-1,Гомель "Радио Гомель Плюс" 103.7 FM
+http://stream2.datacenter.by:8021/gomelplus
+#EXTINF:-1,Гомель "Гомельское городское Радио" 107.4 FM
+http://31.130.206.32:2015/gomelradio
+#EXTINF:-1,Гродно "Альфа Радио" 98.4 FM
+http://live.alpha.by:8000/tuner_grodno
+#EXTINF:-1,Гродно "Радио Гродно" 101.2 FM
+https://stream.radiogrodno.by:8005/live
+#EXTINF:-1,Гродно "Радио MFM" 105.0 FM
+http://radio.105fm.by/radio.105.0mfm
+#EXTINF:-1,Лида "Лидер FM" 94.3 FM
+http://icecast.lider-fm.by/liderfm
+#EXTINF:-1,Лида "Твое Радио" 100.6 FM
+http://lider-fm.by:8020/radio
+#EXTINF:-1,Могилев "Радио Могилев" 96.4 FM
+https://stream2.datacenter.by/tvrmogilev
+#EXTINF:-1,Могилев "Альфа Радио" 97.2 FM
+http://live.alpha.by:8000/tuner_mogilev
+#EXTINF:-1,Молодечно "Молодечно FM" 89.2 FM
+http://178.124.179.122:8088/Radio/index.m3u8
+#EXTINF:-1,Орша "Радио Скиф" 99.9 FM
+http://178.172.150.248:2530/;
+#EXTINF:-1,Полоцк "Европа Плюс" 102.1 FM
+https://air.sammit.tv/europa
+#EXTINF:-1,Ушачи "Альфа Радио" 100.0 FM
+http://live.alpha.by:8000/tuner_ushachi
+#EXTINF:-1,1.FM - Absolute Trance (Euro) Radio
+http://185.33.21.112/trance_64a
+#EXTINF:-1,4YOU
+http://listen7.myradio24.com/2455
+#EXTINF:-1,Alyaxen
+http://listen7.myradio24.com:9000/alyaxen
+#EXTINF:-1,Aplus.FM
+https://s.aplus.fm/aplus_192
+#EXTINF:-1,Aplus.FM Rock
+https://s.aplus.fm/aplus_rock_128
+#EXTINF:-1,Aplus.FM Relax
+https://s.aplus.fm/aplus_relax_128
+#EXTINF:-1,Aplus.FM Deep
+https://s.aplus.fm/aplus_deep_128
+#EXTINF:-1,Aplus.FM Beat
+https://s.aplus.fm/aplus_beat_128
+#EXTINF:-1,DIMusic Club
+http://stream1.dimusic.club:11496/live
+#EXTINF:-1,Dzed Bardaitis
+http://26453.live.streamtheworld.com/SAM03AAC337_SC
+#EXTINF:-1,Euroradio.fm Belarus Music
+http://stream.euroradio.fm:8000/euroradio4
+#EXTINF:-1,Euroradio.fm Soft Rock
+http://stream.euroradio.fm:8000/euroradio3
+#EXTINF:-1,Euroradio.fm Alternative
+http://stream1.euroradio.fm:8000/euroradio1
+#EXTINF:-1,Gospel Jazz
+https://kathy.torontocast.com:3375/stream
+#EXTINF:-1,HIPHOPBY
+http://listen2.myradio24.com:9000/8000
+#EXTINF:-1,LOVE IS radio
+http://myradio24.org/3355
+#EXTINF:-1,Milky Way Radio
+https://milky-way.network/320kbps.m4a
+#EXTINF:-1,NETradioWOT
+https://sv.netradio.by/1/256
+#EXTINF:-1,Niepokalanow
+http://88.199.169.10:7600/rn.mp3
+#EXTINF:-1,NovoeRadio BY (TOP-100)
+https://live.novoeradio.by:444/live/novoeradio_TOP100_aac128/icecast.audio
+#EXTINF:-1,NovoeRadio BY (fresh)
+https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio
+#EXTINF:-1,NovoeRadio BY (MEGAMIX)
+https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio
+#EXTINF:-1,NovoeRadio BY (WAKEUP-SHOW)
+https://live.novoeradio.by:444/live/novoeradio_wakeupshow_aac128/icecast.audio
+#EXTINF:-1,Plato
+https://azura.radioplato.by/radio/8000/radio.mp3
+#EXTINF:-1,PLATOON
+https://a6.radioheart.ru:9004/RH64862
+#EXTINF:-1,RadioMIX
+https://stream.radiomix.dance/radiomix
+#EXTINF:-1,RAW Sound
+http://95.128.69.26:8080/;
+#EXTINF:-1,S13 Radio
+https://s13.live/live
+#EXTINF:-1,Unistar В темпе
+http://hls-01-unistar.hostingradio.ru/unistar-fast/playlist.m3u8
+#EXTINF:-1,Unistar Двухтысячные
+http://hls-01-unistar.hostingradio.ru/unistar-best/playlist.m3u8
+#EXTINF:-1,Unistar Каверы
+http://hls-01-unistar.hostingradio.ru/unistar-covers/playlist.m3u8
+#EXTINF:-1,Unistar Мой рок-н-ролл
+http://hls-01-unistar.hostingradio.ru/unistar-rock/playlist.m3u8
+#EXTINF:-1,Unistar Офисный канал
+http://hls-01-unistar.hostingradio.ru/unistar-office/playlist.m3u8
+#EXTINF:-1,Unistar Свежие хиты
+http://hls-01-unistar.hostingradio.ru/unistar-top/playlist.m3u8
+#EXTINF:-1,Uvaga.By
+http://up.uvaga.by:8100/uvaga128
+#EXTINF:-1,Адкрытае Слова
+https://rs.radioslovo.net:4005/radio?1619348678875
+#EXTINF:-1,Беларусь FM
+http://stream2.datacenter.by:8009/belarusfm
+#EXTINF:-1,Беларусь International
+https://stream2.datacenter.by/belarus
+#EXTINF:-1,Белое Радио
+http://listen6.myradio24.com:9000/4592
+#EXTINF:-1,Ватыканскае радыё
+https://radio.vaticannews.va/stream-be
+#EXTINF:-1,Марыя
+https://server.radiorm.by:8443/live
+#EXTINF:-1,Победа
+http://live.alpha.by:7000/den_pobedy
+#EXTINF:-1,Прайм Радио
+http://listen7.myradio24.com:9000/praims
+#EXTINF:-1,Радио 97
+https://air.radio97.net:8443/256_live
+#EXTINF:-1,Радыё Рацыя
+http://air.racyja.com:8000/racja128
+#EXTINF:-1,Родничокъ
+https://a1.radioheart.ru:9035/RH20329
+#EXTINF:-1,Теплое Радио
+http://listen.teploe.net:8100/netopfm
+#EXTINF:-1,ТрансМировое Радио в Беларуси
+http://eu3.fastcast4u.com:5026/;
+#EXTINF:-1,Христианское радио 123
+http://139.162.156.56:8173/stream
+#EXTINF:-1,Чайная роза
+http://s04.volnorez.com/live-app/788219
+#EXTINF:-1,Чистый Берег
+http://178.124.156.18:8000/HQ_320.mp3
+#EXTINF:-1,ZENO 100percent EVSEYCHIK
+http://stream.zeno.fm/necxub3bgphvv
+#EXTINF:-1,ZENO 1337 FM
+http://stream.zeno.fm/4t2zvqw4gd0uv
+#EXTINF:-1,ZENO ALEX ALEDY WEB
+http://stream.zeno.fm/rmzs0m5bqrhvv
+#EXTINF:-1,ZENO espinoza_fm
+http://stream.zeno.fm/9d1e1gqq3nhvv
+#EXTINF:-1,ZENO Foxters
+http://stream.zeno.fm/excqtzt9qbxtv
+#EXTINF:-1,ZENO GrayWave
+http://stream.zeno.fm/ste3fd4fwn9tv
+#EXTINF:-1,ZENO Happy Radio
+http://stream.zeno.fm/v3h8m59s1zhvv
+#EXTINF:-1,ZENO HellRadio
+http://stream.zeno.fm/28eungtz71zuv
+#EXTINF:-1,ZENO Junkyard FM
+https://stream.zeno.fm/cjbiwsqdmmcuv
+#EXTINF:-1,ZENO LonelyFM
+http://stream.zeno.fm/4vn4yva3pxbuv
+#EXTINF:-1,ZENO MEGA
+http://stream.zeno.fm/yhr1w9mvqg8uv
+#EXTINF:-1,ZENO MEGA Alter
+http://stream.zeno.fm/60mp6hvvqg8uv
+#EXTINF:-1,ZENO MEGA Chanson
+http://stream.zeno.fm/30kubkgj9odtv
+#EXTINF:-1,ZENO MEGA Fresh
+http://stream.zeno.fm/ufb4boupxrquv
+#EXTINF:-1,ZENO MEGA Gold
+http://stream.zeno.fm/y4euarvvqg8uv
+#EXTINF:-1,ZENO MEGA Humor
+http://stream.zeno.fm/gkh0ti1oxsruv
+#EXTINF:-1,ZENO MEGA Kids
+http://stream.zeno.fm/l6w7tki467pvv
+#EXTINF:-1,ZENO MEGA Mix
+http://stream.zeno.fm/v04ccyvvqg8uv
+#EXTINF:-1,ZENO MEGA Popsa
+http://stream.zeno.fm/2hx7c3vvqg8uv
+#EXTINF:-1,ZENO MEGA Pulse
+http://stream.zeno.fm/8v33n6vvqg8uv
+#EXTINF:-1,ZENO MEGA Rap
+http://stream.zeno.fm/8fosacdrwkltv
+#EXTINF:-1,ZENO MEGA Rock
+http://stream.zeno.fm/b5nqnawvqg8uv
+#EXTINF:-1,ZENO MEGA Star
+http://stream.zeno.fm/sph0gdwvqg8uv
+#EXTINF:-1,ZENO MEGA UA
+http://stream.zeno.fm/zev8kitr5a7tv
+#EXTINF:-1,ZENO MEGA Urbana
+http://stream.zeno.fm/1cuedqwvqg8uv
+#EXTINF:-1,ZENO MEGA World
+http://stream.zeno.fm/guwak9qn3zhvv
+#EXTINF:-1,ZENO MEGA Xmas
+http://stream.zeno.fm/npppctwvqg8uv
+#EXTINF:-1,ZENO MEGA Y2K
+http://stream.zeno.fm/9f9bvqpi1v1vv
+#EXTINF:-1,ZENO NARKOV
+http://stream.zeno.fm/4bio1ioxyvrtv
+#EXTINF:-1,ZENO Nosferatu
+http://stream.zeno.fm/sdfhzdqw7syvv
+#EXTINF:-1,ZENO radiobroadcast
+http://stream.zeno.fm/i6mla0cnjueuv
+#EXTINF:-1,ZENO RazburyMury
+http://stream.zeno.fm/mk7nf2e78a0uv
+#EXTINF:-1,ZENO Russian Hits Shumilino
+http://stream.zeno.fm/btpn2pm3fchvv
+#EXTINF:-1,ZENO Tzgospel belarus
+http://stream.zeno.fm/ksnp674u2ehvv
